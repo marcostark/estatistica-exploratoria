@@ -1,4 +1,5 @@
-matploitlib
+matplotlib
+jupyter
 numpy
 seaborn
 nltk
