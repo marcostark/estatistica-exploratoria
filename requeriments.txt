@@ -1,0 +1,4 @@
+matploitlib
+numpy
+seaborn
+nltk
