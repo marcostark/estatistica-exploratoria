@@ -1,31 +1,201 @@
-,Servico
-0,Produtos Eletrodomésticos e Eletrônicos
-1,Serviços Financeiros
-2,Serviços Financeiros
-3,Turismo/Viagens
-4,Serviços Financeiros
-5,Telecomunicações
-6,Produtos de Telefonia e Informática
-7,Serviços Financeiros
+,Serviços
+0,Telecomunicações
+1,Produtos de Telefonia e Informática
+2,Telecomunicações
+3,Telecomunicações
+4,Demais Produtos
+5,Transportes
+6,Telecomunicações
+7,Telecomunicações
 8,Telecomunicações
-9,Serviços Financeiros
-10,Demais Produtos
-11,Telecomunicações
-12,Serviços Financeiros
-13,Serviços Financeiros
-14,Serviços Financeiros
-15,Telecomunicações
+9,Transportes
+10,Telecomunicações
+11,Produtos Eletrodomésticos e Eletrônicos
+12,Telecomunicações
+13,Produtos de Telefonia e Informática
+14,Telecomunicações
+15,"Água, Energia, Gás"
 16,Serviços Financeiros
-17,Serviços Financeiros
+17,Telecomunicações
 18,Serviços Financeiros
-19,Serviços Financeiros
-20,Serviços Financeiros
-21,Demais Produtos
+19,Demais Produtos
+20,Produtos Eletrodomésticos e Eletrônicos
+21,Serviços Financeiros
 22,Serviços Financeiros
-23,Telecomunicações
-24,Serviços Financeiros
-25,Produtos de Telefonia e Informática
-26,Telecomunicações
+23,Serviços Financeiros
+24,Telecomunicações
+25,Serviços Financeiros
+26,Serviços Financeiros
 27,Telecomunicações
-28,Telecomunicações
-29,Serviços Financeiros
+28,Produtos Eletrodomésticos e Eletrônicos
+29,Telecomunicações
+30,Serviços Financeiros
+31,Serviços Financeiros
+32,Serviços Financeiros
+33,Serviços Financeiros
+34,Transportes
+35,Transportes
+36,Serviços Financeiros
+37,Serviços Financeiros
+38,Produtos de Telefonia e Informática
+39,Serviços Financeiros
+40,Serviços Financeiros
+41,Demais Produtos
+42,Telecomunicações
+43,Serviços Financeiros
+44,Serviços Financeiros
+45,Produtos de Telefonia e Informática
+46,Serviços Financeiros
+47,Serviços Financeiros
+48,Telecomunicações
+49,Telecomunicações
+50,Telecomunicações
+51,Serviços Financeiros
+52,Demais Produtos
+53,Serviços Financeiros
+54,Telecomunicações
+55,Serviços Financeiros
+56,Serviços Financeiros
+57,Demais Produtos
+58,Serviços Financeiros
+59,Produtos de Telefonia e Informática
+60,Transportes
+61,Telecomunicações
+62,Serviços Financeiros
+63,Telecomunicações
+64,Telecomunicações
+65,Telecomunicações
+66,Telecomunicações
+67,Serviços Financeiros
+68,Produtos de Telefonia e Informática
+69,Telecomunicações
+70,Serviços Financeiros
+71,Telecomunicações
+72,Telecomunicações
+73,Telecomunicações
+74,Produtos de Telefonia e Informática
+75,Produtos Eletrodomésticos e Eletrônicos
+76,Demais Produtos
+77,Demais Produtos
+78,Serviços Financeiros
+79,Serviços Financeiros
+80,Serviços Financeiros
+81,Transportes
+82,Produtos Eletrodomésticos e Eletrônicos
+83,Produtos Eletrodomésticos e Eletrônicos
+84,Telecomunicações
+85,Telecomunicações
+86,Serviços Financeiros
+87,Serviços Financeiros
+88,Demais Produtos
+89,Serviços Financeiros
+90,Telecomunicações
+91,Serviços Financeiros
+92,Serviços Financeiros
+93,Produtos Eletrodomésticos e Eletrônicos
+94,Produtos de Telefonia e Informática
+95,Produtos Eletrodomésticos e Eletrônicos
+96,Telecomunicações
+97,Telecomunicações
+98,Serviços Financeiros
+99,Produtos de Telefonia e Informática
+100,Telecomunicações
+101,Produtos Eletrodomésticos e Eletrônicos
+102,Demais Produtos
+103,Telecomunicações
+104,Demais Produtos
+105,Telecomunicações
+106,Produtos Eletrodomésticos e Eletrônicos
+107,Telecomunicações
+108,Telecomunicações
+109,Produtos de Telefonia e Informática
+110,Serviços Financeiros
+111,Telecomunicações
+112,Produtos de Telefonia e Informática
+113,Serviços Financeiros
+114,Produtos de Telefonia e Informática
+115,Serviços Financeiros
+116,Serviços Financeiros
+117,Serviços Financeiros
+118,Telecomunicações
+119,Produtos de Telefonia e Informática
+120,Serviços Financeiros
+121,Telecomunicações
+122,Telecomunicações
+123,Produtos de Telefonia e Informática
+124,Demais Produtos
+125,Serviços Financeiros
+126,"Água, Energia, Gás"
+127,Demais Produtos
+128,Serviços Financeiros
+129,Telecomunicações
+130,Demais Produtos
+131,Telecomunicações
+132,Serviços Financeiros
+133,Serviços Financeiros
+134,Produtos de Telefonia e Informática
+135,Serviços Financeiros
+136,Serviços Financeiros
+137,Serviços Financeiros
+138,Serviços Financeiros
+139,Telecomunicações
+140,Produtos de Telefonia e Informática
+141,Serviços Financeiros
+142,Serviços Financeiros
+143,Produtos Eletrodomésticos e Eletrônicos
+144,Serviços Financeiros
+145,Telecomunicações
+146,Serviços Financeiros
+147,Demais Produtos
+148,Transportes
+149,Telecomunicações
+150,Serviços Financeiros
+151,Telecomunicações
+152,Serviços Financeiros
+153,Telecomunicações
+154,Telecomunicações
+155,Telecomunicações
+156,Serviços Financeiros
+157,Serviços Financeiros
+158,Telecomunicações
+159,Serviços Financeiros
+160,Produtos Eletrodomésticos e Eletrônicos
+161,Telecomunicações
+162,Telecomunicações
+163,Serviços Financeiros
+164,Produtos Eletrodomésticos e Eletrônicos
+165,Produtos de Telefonia e Informática
+166,Produtos de Telefonia e Informática
+167,Produtos de Telefonia e Informática
+168,Serviços Financeiros
+169,Telecomunicações
+170,Telecomunicações
+171,Serviços Financeiros
+172,Serviços Financeiros
+173,Serviços Financeiros
+174,Produtos Eletrodomésticos e Eletrônicos
+175,Serviços Financeiros
+176,Serviços Financeiros
+177,Produtos de Telefonia e Informática
+178,Produtos de Telefonia e Informática
+179,Serviços Financeiros
+180,Serviços Financeiros
+181,Telecomunicações
+182,Serviços Financeiros
+183,Produtos de Telefonia e Informática
+184,Demais Serviços 
+185,Telecomunicações
+186,Demais Produtos
+187,Demais Produtos
+188,Telecomunicações
+189,Serviços Financeiros
+190,Telecomunicações
+191,Serviços Financeiros
+192,Telecomunicações
+193,Serviços Financeiros
+194,Telecomunicações
+195,Serviços Financeiros
+196,Serviços Financeiros
+197,Telecomunicações
+198,Produtos de Telefonia e Informática
+199,Serviços Financeiros
